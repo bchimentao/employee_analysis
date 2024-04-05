@@ -1,0 +1,7 @@
+Mutual_Information: 0, []
+Smart Correlated: 7, ['BusinessTravel', 'Department', 'Gender', 'JobInvolvement', 'JobRole', 'MaritalStatus', 'WorkLifeBalance']
+SFS: 1, ['JobLevel']
+Mutual_Information and Smart Correlated: 9, ['DistanceFromHome', 'Education', 'EnvironmentSatisfaction', 'HourlyRate', 'PercentSalaryHike', 'RelationshipSatisfaction', 'TrainingTimesLastYear', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
+Mutual_Information and SFS: 0, []
+Smart Correlated and SFS: 8, ['DailyRate', 'EducationField', 'EmployeeNumber', 'MonthlyIncome', 'MonthlyRate', 'OverTime', 'PerformanceRating', 'StockOptionLevel']
+Mutual_Information and Smart Correlated and SFS: 6, ['Age', 'JobSatisfaction', 'NumCompaniesWorked', 'TotalWorkingYears', 'YearsAtCompany', 'YearsWithCurrManager']
