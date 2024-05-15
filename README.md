@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-The present notebook makes use of machine learning algorithms to predict attrition of employees, based on a Kaggle dataset called "Mobile Price Classification".
+The present notebook makes use of machine learning algorithms to predict attrition of employees, based on a Kaggle dataset called "Employee Analysis | Attrition Report".
 
 #### In order to run this model in **Linux** follow these steps:
 
